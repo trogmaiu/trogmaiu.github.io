@@ -59,7 +59,7 @@ border-radius: 20px;
 
 
 .cortextoh1 {
-	font-family: "OCR A Std";
+	font-family: "fantasy", "monospace";
 	font-size: 60px;
 	color: white;
 }
@@ -67,7 +67,7 @@ border-radius: 20px;
 
 
 p.a {
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Times New Roman", "Times", "serif";
 	font-size: 20px;
 }
 
