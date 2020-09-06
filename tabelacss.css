@@ -1,0 +1,73 @@
+
+* {
+
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.corpo {
+
+background: #7FFF00;	
+}
+
+
+.cabecalho {
+	position: fixed ;
+	text-align: center;
+	background: #7FFF00;
+	width: 100%;
+}
+
+
+
+
+.corpo1 {
+background: #ffffff;	
+height: 400px;
+width: 400px;
+margin-left: 100px;
+margin-top: 90px;
+float: left;
+border-radius: 20px;
+
+}
+
+.corpo2 {
+
+background: #ffffff;	
+height: 400px;
+width: 400px;
+margin-right: 100px;
+margin-left: 100px;
+margin-top: 200px;
+float: right;
+border-radius: 20px;
+}
+
+.corpo3 {
+background: #ffffff;	
+height: 200px;
+width: 600px;
+margin-left: 100px;
+margin-top: 90px;
+float: left;
+border-radius: 20px;
+
+}
+
+
+.cortextoh1 {
+
+	color: white;
+}
+
+
+
+p.a {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+
+
