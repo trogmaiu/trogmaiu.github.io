@@ -1,6 +1,6 @@
 function iniciaJogo(){
 
-tempo_segundos = 30;
+tempo_segundos = 10;
 document.getElementById('cronometro').innerHTML = tempo_segundos;
 	contagem_tempo(tempo_segundos + 1)
 
