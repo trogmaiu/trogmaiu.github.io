@@ -7,7 +7,7 @@ document.getElementById('cronometro').innerHTML = tempo_segundos;
 }
 
 function carregargift() {
-	window.location.href = 'tenor.gift';
+	window.location.href = 'tenor.gif';
 }
 
 function contagem_tempo(segundos){
