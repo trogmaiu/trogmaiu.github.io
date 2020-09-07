@@ -60,14 +60,14 @@ border-radius: 20px;
 
 .cortextoh1 {
 	font-family: "fantasy", "monospace";
-	font-size: 60px;
+	font-size: 50px;
 	color: white;
 }
 
 
 
 p.a {
-	font-family: "fantasy", "Times", "serif";
+	font-family: "monospace", "Times", "serif";
 	font-size: 20px;
 }
 
